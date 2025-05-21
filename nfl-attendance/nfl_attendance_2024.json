@@ -1,0 +1,290 @@
+[
+  {
+    "team": "Dallas Cowboys",
+    "total_home": 836749,
+    "avg_home": 92972,
+    "total_road": 564826,
+    "avg_road": 70603,
+    "total_overall": 1401575,
+    "avg_overall": 82445
+  },
+  {
+    "team": "NY Jets",
+    "total_home": 551528,
+    "avg_home": 78789,
+    "total_road": 593347,
+    "avg_road": 65927,
+    "total_overall": 1144875,
+    "avg_overall": 71554
+  },
+  {
+    "team": "NY Giants",
+    "total_home": 706231,
+    "avg_home": 78470,
+    "total_road": 567411,
+    "avg_road": 70926,
+    "total_overall": 1273642,
+    "avg_overall": 74920
+  },
+  {
+    "team": "Green Bay Packers",
+    "total_home": 702030,
+    "avg_home": 78003,
+    "total_road": 512221,
+    "avg_road": 64027,
+    "total_overall": 1214251,
+    "avg_overall": 71426
+  },
+  {
+    "team": "Denver Broncos",
+    "total_home": 591754,
+    "avg_home": 73969,
+    "total_road": 554000,
+    "avg_road": 69250,
+    "total_overall": 1145754,
+    "avg_overall": 71609
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "total_home": 441559,
+    "avg_home": 73593,
+    "total_road": 632634,
+    "avg_road": 70292,
+    "total_overall": 1074193,
+    "avg_overall": 71612
+  },
+  {
+    "team": "Los Angeles Rams",
+    "total_home": 658748,
+    "avg_home": 73194,
+    "total_road": 540273,
+    "avg_road": 67534,
+    "total_overall": 1199021,
+    "avg_overall": 70530
+  },
+  {
+    "team": "San Francisco 49ers",
+    "total_home": 642803,
+    "avg_home": 71422,
+    "total_road": 553756,
+    "avg_road": 69219,
+    "total_overall": 1196559,
+    "avg_overall": 70385
+  },
+  {
+    "team": "Atlanta Falcons",
+    "total_home": 642432,
+    "avg_home": 71381,
+    "total_road": 542952,
+    "avg_road": 67869,
+    "total_overall": 1185384,
+    "avg_overall": 69728
+  },
+  {
+    "team": "Houston Texans",
+    "total_home": 570666,
+    "avg_home": 71333,
+    "total_road": 565946,
+    "avg_road": 70743,
+    "total_overall": 1136612,
+    "avg_overall": 71038
+  },
+  {
+    "team": "Baltimore Ravens",
+    "total_home": 568423,
+    "avg_home": 71052,
+    "total_road": 652567,
+    "avg_road": 72507,
+    "total_overall": 1220990,
+    "avg_overall": 71822
+  },
+  {
+    "team": "Buffalo Bills",
+    "total_home": 565564,
+    "avg_home": 70695,
+    "total_road": 627406,
+    "avg_road": 69711,
+    "total_overall": 1192970,
+    "avg_overall": 70174
+  },
+  {
+    "team": "Carolina Panthers",
+    "total_home": 635515,
+    "avg_home": 70612,
+    "total_road": 535140,
+    "avg_road": 66892,
+    "total_overall": 1170655,
+    "avg_overall": 68862
+  },
+  {
+    "team": "New Orleans Saints",
+    "total_home": 630113,
+    "avg_home": 70012,
+    "total_road": 597048,
+    "avg_road": 74631,
+    "total_overall": 1227161,
+    "avg_overall": 72185
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "total_home": 559732,
+    "avg_home": 69966,
+    "total_road": 611100,
+    "avg_road": 67900,
+    "total_overall": 1170832,
+    "avg_overall": 68872
+  },
+  {
+    "team": "Philadelphia Eagles",
+    "total_home": 559032,
+    "avg_home": 69879,
+    "total_road": 587773,
+    "avg_road": 73471,
+    "total_overall": 1146805,
+    "avg_overall": 71675
+  },
+  {
+    "team": "Seattle Seahawks",
+    "total_home": 617945,
+    "avg_home": 68660,
+    "total_road": 548359,
+    "avg_road": 68544,
+    "total_overall": 1166304,
+    "avg_overall": 68606
+  },
+  {
+    "team": "Cleveland Browns",
+    "total_home": 541808,
+    "avg_home": 67726,
+    "total_road": 592868,
+    "avg_road": 65874,
+    "total_overall": 1134676,
+    "avg_overall": 66745
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "total_home": 535045,
+    "avg_home": 66880,
+    "total_road": 616362,
+    "avg_road": 68484,
+    "total_overall": 1151407,
+    "avg_overall": 67729
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "total_home": 530355,
+    "avg_home": 66294,
+    "total_road": 656410,
+    "avg_road": 72934,
+    "total_overall": 1186765,
+    "avg_overall": 69809
+  },
+  {
+    "team": "Minnesota Vikings",
+    "total_home": 596577,
+    "avg_home": 66286,
+    "total_road": 556932,
+    "avg_road": 69616,
+    "total_overall": 1153509,
+    "avg_overall": 67853
+  },
+  {
+    "team": "Indianapolis Colts",
+    "total_home": 526138,
+    "avg_home": 65767,
+    "total_road": 635545,
+    "avg_road": 70616,
+    "total_overall": 1161683,
+    "avg_overall": 68334
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "total_home": 526117,
+    "avg_home": 65764,
+    "total_road": 588355,
+    "avg_road": 65372,
+    "total_overall": 1114472,
+    "avg_overall": 65557
+  },
+  {
+    "team": "Miami Dolphins",
+    "total_home": 525150,
+    "avg_home": 65643,
+    "total_road": 628501,
+    "avg_road": 69833,
+    "total_overall": 1153651,
+    "avg_overall": 67861
+  },
+  {
+    "team": "Detroit Lions",
+    "total_home": 584300,
+    "avg_home": 64922,
+    "total_road": 569030,
+    "avg_road": 71128,
+    "total_overall": 1153330,
+    "avg_overall": 67842
+  },
+  {
+    "team": "Tennessee Titans",
+    "total_home": 518556,
+    "avg_home": 64819,
+    "total_road": 590164,
+    "avg_road": 65573,
+    "total_overall": 1108720,
+    "avg_overall": 65218
+  },
+  {
+    "team": "New England Patriots",
+    "total_home": 517078,
+    "avg_home": 64634,
+    "total_road": 630503,
+    "avg_road": 70055,
+    "total_overall": 1147581,
+    "avg_overall": 67504
+  },
+  {
+    "team": "Arizona Cardinals",
+    "total_home": 575780,
+    "avg_home": 63975,
+    "total_road": 562631,
+    "avg_road": 70328,
+    "total_overall": 1138411,
+    "avg_overall": 66965
+  },
+  {
+    "team": "Tampa Bay Bucaneers",
+    "total_home": 573205,
+    "avg_home": 63689,
+    "total_road": 513584,
+    "avg_road": 73369,
+    "total_overall": 1086789,
+    "avg_overall": 67924
+  },
+  {
+    "team": "Washington Commanders",
+    "total_home": 570854,
+    "avg_home": 63428,
+    "total_road": 573054,
+    "avg_road": 71631,
+    "total_overall": 1143908,
+    "avg_overall": 67288
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "total_home": 497403,
+    "avg_home": 62175,
+    "total_road": 625404,
+    "avg_road": 69489,
+    "total_overall": 1122807,
+    "avg_overall": 66047
+  },
+  {
+    "team": "Chicago Bears",
+    "total_home": 527841,
+    "avg_home": 58649,
+    "total_road": 548165,
+    "avg_road": 68520,
+    "total_overall": 1076006,
+    "avg_overall": 63294
+  }
+]

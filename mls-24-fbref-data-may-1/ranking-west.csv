@@ -1,0 +1,15 @@
+rank,team,games,wins,ties,losses,goals_for,goals_against,goal_diff,points,points_avg,xg_for,xg_against,xg_diff,xg_diff_per90,attendance_per_g,top_team_scorers,top_keeper,notes
+1, LAFC,34,19,7,8,63,43,+20,64,1.88,59.2,39.9,+19.4,+0.57,25895,Denis Bouanga - 20,Hugo Lloris,→ Round One 
+2, LA Galaxy,34,19,7,8,69,50,+19,64,1.88,63.8,53.0,+10.8,+0.32,32106,Gabriel Chaves - 16,John McCarthy,→ Round One 
+3, Real Salt Lake,34,16,11,7,65,48,+17,59,1.74,55.2,43.5,+11.7,+0.35,21394,Cristian Arango - 17,Zac MacMath,→ Round One 
+4, Seattle Sounders,34,16,9,9,51,35,+16,57,1.68,49.3,38.3,+11.0,+0.32,32520,Jordan Morris - 13,Stefan Frei,→ Round One 
+5, Houston Dynamo,34,15,9,10,47,39,+8,54,1.59,43.1,45.9,-2.8,-0.08,18431,Aliyu Ibrahim - 6,Steve Clark,→ Round One 
+6, Minnesota Utd,34,15,7,12,58,49,+9,52,1.53,53.2,50.1,+3.1,+0.09,20768,Bongokuhle Hlongwane - 11,Dayne St. Clair,→ Round One 
+7, Colorado Rapids,34,15,5,14,61,60,+1,50,1.47,57.5,51.8,+5.7,+0.17,16278,Rafael Navarro - 15,Zack Steffen,→ Round One 
+8, Vancouver W'caps,34,13,8,13,52,49,+3,47,1.38,49.4,44.6,+4.9,+0.14,28465,Brian White - 15,Yohei Takaoka,→ Wild Card Round 
+9, Portland Timbers,34,12,11,11,65,56,+9,47,1.38,54.0,48.4,+5.6,+0.17,22485,Jonathan Rodríguez - 16,Maxime Crépeau,→ Wild Card Round 
+10, Austin,34,11,9,14,39,48,-9,42,1.24,39.6,57.4,-17.8,-0.52,20738,Sebastián Driussi Jáder Obrian - 7,Brad Stuver,
+11, FC Dallas,34,11,8,15,54,56,-2,41,1.21,41.8,54.0,-12.3,-0.36,19177,Petar Musa - 16,Maarten Paes,
+12, St. Louis,34,8,13,13,50,63,-13,37,1.09,47.0,57.4,-10.5,-0.31,22455,Cedric Teuchert Eduard Löwen... - 5,Roman Bürki,
+13, Sporting KC,34,8,7,19,51,66,-15,31,0.91,42.9,52.8,-9.9,-0.29,21193,William Agada - 10,Tim Melia,
+14, SJ Earthquakes,34,6,3,25,41,78,-37,21,0.62,45.4,58.3,-12.9,-0.38,17501,Amahl Pellegrino - 7,William Yarbrough,

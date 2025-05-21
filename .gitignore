@@ -1,0 +1,5 @@
+.venv
+.zed
+.ropeproject
+.ipynb_checkpoints
+.DS_STORE

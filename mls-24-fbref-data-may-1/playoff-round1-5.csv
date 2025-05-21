@@ -1,0 +1,3 @@
+rank,team,games,wins,ties,losses,goals_for,goals_against,goal_diff,points,points_avg,xg_for,xg_against,xg_diff,xg_diff_per90,notes
+1, LAFC,3,2,0,1,3,4,-1,6,2.00,3.6,3.0,+0.6,+0.19,→ Conference Semifinals 
+2, Vancouver W'caps,3,1,0,2,4,3,+1,3,1.00,3.0,3.6,-0.6,-0.19,
