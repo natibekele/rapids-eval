@@ -1,12 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
+from playwright._impl._errors import TimeoutError
 from playwright.sync_api import sync_playwright
 
 
 def get_page_with_playwright(url):
     with sync_playwright() as p:
+        print("launch browser")
         browser = p.chromium.launch(headless=True)
-
+        print("launced browser")
         context = browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                        "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -17,7 +19,10 @@ def get_page_with_playwright(url):
         )
 
         page= context.new_page()
-        page.goto(url)
+        try:
+            page.goto(url, timeout=5000)
+        except TimeoutError:
+            print("timeout error, still try to proceed.")
 
         content = page.content()
         browser.close()
@@ -56,24 +61,16 @@ def write_data(table, index):
         for row in data:
             f.write(','.join(row) + '\n')
 
-# MAIN #######
-# response = requests.get("https://fbref.com/en/comps/22/Major-League-Soccer-Stats")
-# response = requests.get("https://fbref.com/en/comps/22/2024/2024-Major-League-Soccer-Stats")
-# response = requests.get("https://fbref.com/en/comps/22/wages/Major-League-Soccer-Wages")
-# response = requests.get("https://fbref.com/en/comps/22/playingtime/Major-League-Soccer-Stats")
-# response = requests.get("https://fbref.com/en/comps/22/2024/shooting/2024-Major-League-Soccer-Stats")
-
-# url = "https://fbref.com/en/comps/22/defense/Major-League-Soccer-Stats"
-# url ="https://fbref.com/en/comps/22/2024/defense/2024-Major-League-Soccer-Stats"
-# url = "https://fbref.com/en/comps/22/2024/wages/2024-Major-League-Soccer-Wages"
-# url = "https://fbref.com/en/comps/22/2023/2023-Major-League-Soccer-Stats"
 url = "https://fbref.com/en/comps/22/2024/wages/2023-Major-League-Soccer-Wages"
 
+print("getting page with playwright")
 html = get_page_with_playwright(url)
+
+print("starting parse")
 soup = BeautifulSoup(html, 'html.parser')
 
+print("finding tables")
 tables = soup.find_all('table')
 for i,table in enumerate(tables):
     if table.has_attr('class'):
         write_data(table, i)
-# and then in the body we'll go through each row and extract all of the data using tr
